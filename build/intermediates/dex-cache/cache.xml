@@ -1,0 +1,187 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appstate/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="68c140702c7242d914655bcb3164d9e8c45b84cb">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-5dd89aa0cde8e783c5c1d08ac6aff48b569b3661.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="d405025c600055237c171a0bbabaa49d69696573">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-ab1579688dbf39517546f8b949028a2e77876524.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="272bc5d7063f24bc3a33ea1d318cde8f31f5ec4c">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-f0f736a6ce75f05fe0d1069207402ca5a463377f.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="02bac2dc792d78241077861566f2c82da955e7fa">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-36ac2329266da899e1209efbdb58cceb75ed9685.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a172852a35ff919e85b9b7f14bbc15c5bee25520">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-c72a193133781bf6ac23c798700b5845f40fedb9.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="4486e953d1f35f8ccab098b1dd67146366d5f731">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-7ff77e98d65457a1fd49fed2283e67e7e321ba18.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba207be21987c11b37d9f8faa08ed6e722569f30">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-b513b50862df185f7dd67a736945b473b9f5689e.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="ba3df4eb0a630d7de294f0e48d3f9267d279b784">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-c51c55750f78e8fd9dd429d33351644e8718b7c3.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6836d188602ec5382d1967c58b00960eb8ff8773">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-11fb8cd3426e7f3971c9d7f20b4e500067c7d06c.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8e3a972f28b8bae817e382257ba177a31bcadbbc">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-878185e78340cc2dff730a02720a7e157c24500b.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="63ec6e9f4fe5482a7447d0f3091b8e543a02554c">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-661b35e0ff59c2d5d94661c088f74d37f7fcc819.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1a6411087ab88ce5542f593e63a2752b6b0d6f1a">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-3b831a031423a02ce9f3d65a614cb50b76e1021b.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/libs/internal_impl-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="c471eaaba13ff64f6e0383d1c30a9cdc9a97efeb">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/internal_impl-22.2.1-d13e3279a156bdb1b4a4cf1805dadc1da903a819.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="8d736fefa22d896e84a268354b3ed48a42663150">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-ba8bd051d9b954f406e5f91ee2330a025b8f3cf3.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="6440e5e5cfe368f9bff3c537fb8988048069cb33">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-83229f8101dfb3e7fc804cb4839b67fcfc2a7395.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/22.2.1/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f8efd0096475e0daf054267b61544e10dc776503">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-6c723b916bf879ac5a951733e6c757c4933eebfa.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f44d03c138cb6488fdbaa65e3a7e5878861a56d8">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-e60d75eb254b3ed1a9e44eae11b32c1e3c19549f.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="69dd177337ead693c408c8dddc9546bb6f1244fa">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-b7d07469d503371e9ff05a5ae3499cfcaf37a60f.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/22.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a1372c17fccacca753d3951d3ad820571cbce075">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-2a4ea675e33d5111b414e00a584a1e7907775c9c.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="f02127a85abd52a2cd526d4c2409f21969f80ee8">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-6b9d4a879b7e166556430ada2de2363e7c5ae5b7.jar" />
+    </item>
+    <item
+        jar="/Applications/eclipse/sdk/extras/android/m2repository/com/android/support/support-annotations/22.2.1/support-annotations-22.2.1.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="61a0ff5c29295ec56d7e0bd3d25d95dbf71b4b2b">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/support-annotations-22.2.1-0bda4946dfc3b4213fdbeefc39a5e093548395e0.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="06a42becc33232ec0ee125161da68c1829c9f8fd">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-fd74f1b6ec68755b7a3ace2374ec370aa90bac5d.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a78183f30e769a98ab4820794f597763088d3065">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-d10514e86a1fab706aa6b4b1d471fbd4f03ccd87.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="1e98ef3f124bb7a11f8575f9ff5dfea330b61b6f">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-7fbd6686b49e76fb135fc8b9de97cc20f3aefdcd.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="29ebc7e04d877062317c8cc0e68b20f0c1fcda66">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-b0b2a716bf9d8acbd17ae324966fa2b7a7d1165a.jar" />
+    </item>
+    <item
+        jar="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/7.5.0/jars/classes.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="e7b35244f50663b3f8d150714bca9ecd7a290da1">
+        <dex dex="/Users/Kamenator/Kamtechs/Android/K-Stamp/mobile/build/intermediates/pre-dexed/debug/classes-977f5db18b8511f50964019f8a190cbbb4307c4b.jar" />
+    </item>
+
+</items>

@@ -1,0 +1,89 @@
+Applications Graphics Acceleration Info:
+Uptime: 29920676 Realtime: 29920676
+
+** Graphics info for pid 13033 [com.kamtechs.k_stamp] **
+
+Recent DisplayList operations
+              DrawRenderNode
+            DrawRenderNode
+            DrawRenderNode
+    RestoreToCount
+  DrawRenderNode
+  DrawRenderNode
+RestoreToCount
+DrawRect
+DrawRoundRect
+DrawPatch
+DrawText
+Save
+DrawRenderNode
+  DrawRenderNode
+    DrawRect
+  DrawRenderNode
+    Save
+    ClipRect
+    DrawRenderNode
+      DrawRenderNode
+        DrawRenderNode
+          DrawRenderNode
+            DrawRenderNode
+              DrawRect
+            DrawRenderNode
+            DrawRenderNode
+            DrawRenderNode
+              DrawRenderNode
+              DrawRenderNode
+              DrawRenderNode
+              DrawRenderNode
+                DrawRenderNode
+                  DrawRoundRect
+                Save
+                ClipRect
+                Translate
+                DrawRenderNode
+                  DrawText
+                RestoreToCount
+              DrawRenderNode
+              DrawRenderNode
+            DrawRenderNode
+            DrawRenderNode
+    RestoreToCount
+  DrawRenderNode
+  DrawRenderNode
+RestoreToCount
+DrawRect
+DrawRoundRect
+DrawText
+
+Caches:
+Current memory usage / total memory usage (bytes):
+  TextureCache              900 / 25165824
+  LayerCache                  0 / 16777216 (numLayers = 0)
+  Layers total          0 (numLayers = 0)
+  RenderBufferCache           0 /  2097152
+  GradientCache               0 /   524288
+  PathCache                   0 / 10485760
+  TessellationCache        9504 /  1048576
+  TextDropShadowCache         0 /  2097152
+  PatchCache                 64 /   131072
+  FontRenderer 0 A8      524288 /   524288
+  FontRenderer 0 RGBA         0 /        0
+  FontRenderer 0 total   524288 /   524288
+Other:
+  FboCache                    0 /        0
+Total memory usage:
+  534756 bytes, 0.51 MB
+
+Profile data in ms:
+
+	com.kamtechs.k_stamp/com.kamtechs.k_stamp.MainActivity/android.view.ViewRootImpl@1df3ecb0 (visibility=0)
+View hierarchy:
+
+  com.kamtechs.k_stamp/com.kamtechs.k_stamp.MainActivity/android.view.ViewRootImpl@1df3ecb0
+  37 views, 38.09 kB of display lists
+
+
+Total ViewRootImpl: 1
+Total Views:        37
+Total DisplayList:  38.09 kB
+
